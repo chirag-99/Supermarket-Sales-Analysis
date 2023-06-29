@@ -1,11 +1,11 @@
 # Supermarket-Sales-Analysis
 
 The dataset contains sales details of different stores of a supermarket chain that has multiple stores in different parts of the US.
-With columns including: Ship Mode, Segment, Country, City, State, Postal code, Region, Category, Sub-category, Sales, Quantity, Discount, and Profit
+With columns including: Ship Mode, Segment, Country, City, State, Postal code, Region, Category, Sub-category, Sales, Quantity, Discount, and Profit.
 
-Dataset source: Kaggle(public)
+Dataset source: Kaggle(public).
 
-This dataset was analyzed in 2 parts: Power BI and MongoDB
+This dataset was analyzed in 2 parts: Power BI and MongoDB.
 
 ## 1. Power BI
 
