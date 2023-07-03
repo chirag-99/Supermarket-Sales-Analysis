@@ -33,6 +33,6 @@ MongoDB was used to assemble and form the database out of the dataset. NoSQL que
 
 2.4. Sales without discount: This analysis highlighted the total sales when the discount was not offered.
 
-##### After the analysis, it was found that total sales are more when discounts are offered on the orders as compared to when the discounts are not offered.
+#### After the analysis, it was found that total sales are more when discounts are offered on the orders as compared to when the discounts are not offered.
 
 2.5. Big Sales: Since California was the most profitable state, this analysis highlighted the attributes of records wherein the total sales were > $5000.
